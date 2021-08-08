@@ -1,0 +1,348 @@
+{
+  "alcohol": [
+    {
+      "id": 1,
+      "name": "Martiny Bianco",
+      "Volume percentage": "15%",
+      "type": "Vermouth",
+      "volume": "60ml",
+      "img": "/collection_img/matrini_bianco.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bombay sapphire",
+      "Volume percentage": "47%",
+      "type": "Dry Gin",
+      "volume": "50ml",
+      "img": "/collection_img/bombay_sapphire.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bill McLean",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/bill_mclean.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rae",
+      "Volume percentage": "38%",
+      "type": "Gin",
+      "volume": "40ml",
+      "img": "/collection_img/rae_gin.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jameson",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "40ml",
+      "img": "/collection_img/jameson.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cointreau",
+      "Volume percentage": "40%",
+      "type": "Liquor",
+      "volume": "50ml",
+      "img": "/collection_img/cointreau.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Vana Tallin",
+      "Volume percentage": "40%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/vana_tallinn.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Estonian Vodka",
+      "Volume percentage": "40%",
+      "type": "Vodka",
+      "volume": "40ml",
+      "img": "/collection_img/estonian_vodka.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Saaremaa",
+      "Volume percentage": "40%",
+      "type": "Vodka",
+      "volume": "40ml",
+      "img": "/collection_img/saaremaa.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Tullamore D.E.W",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "40ml",
+      "img": "/collection_img/tullamoreDEW.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Becherovka",
+      "Volume percentage": "38%",
+      "type": "Liquor",
+      "volume": "50ml",
+      "img": "/collection_img/becherovka.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Scottish LAND",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/scottishLAND.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Nannerl",
+      "Volume percentage": "15%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/nannerl.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Beefeater",
+      "Volume percentage": "40%",
+      "type": "Gin",
+      "volume": "50ml",
+      "img": "/collection_img/beefeater.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Minttu",
+      "Volume percentage": "40%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/minttu.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Rae palsam",
+      "Volume percentage": "40%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/raepalsam.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Courvoisier V.S.",
+      "Volume percentage": "40%",
+      "type": "Cognac",
+      "volume": "50ml",
+      "img": "/collection_img/raepalsam.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Reykjavik rum",
+      "Volume percentage": "38%",
+      "type": "Rum",
+      "volume": "50ml",
+      "img": "/collection_img/reykjavik_rum.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Finlandia",
+      "Volume percentage": "40%",
+      "type": "Vodka",
+      "volume": "50ml",
+      "img": "/collection_img/finlandia.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Kogvi",
+      "Volume percentage": "18%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/kohvi.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Sierra",
+      "Volume percentage": "38%",
+      "type": "Tequila",
+      "volume": "40ml",
+      "img": "/collection_img/sierra.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Barrister",
+      "Volume percentage": "40%",
+      "type": "Gin",
+      "volume": "50ml",
+      "img": "/collection_img/barrister.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Kuemmerling",
+      "Volume percentage": "35%",
+      "type": "Liquor",
+      "volume": "20ml",
+      "img": "/collection_img/kuemmerling.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Choya",
+      "Volume percentage": "17%",
+      "type": "Liquor",
+      "volume": "50ml",
+      "img": "/collection_img/choya.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Nannerl Kivi",
+      "Volume percentage": "15%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/nannerl_kivi.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Red label",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/red_label.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Chateau du Breuil",
+      "Volume percentage": "40%",
+      "type": "Calvados",
+      "volume": "50ml",
+      "img": "/collection_img/calvados.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Riga Black Original",
+      "Volume percentage": "45%",
+      "type": "Balsam",
+      "volume": "40ml",
+      "img": "/collection_img/riga_black_original.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Riga Black Currant",
+      "Volume percentage": "45%",
+      "type": "Balsam",
+      "volume": "40ml",
+      "img": "/collection_img/riga_black_currant.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Jagermeister",
+      "Volume percentage": "35%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/jagermeister.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Kristall kummel",
+      "Volume percentage": "45%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/kristall_kummel.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Bacardi Carta Blanca",
+      "Volume percentage": "37.5%",
+      "type": "Rum",
+      "volume": "50ml",
+      "img": "/collection_img/bacardi.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Patrol",
+      "Volume percentage": "40%",
+      "type": "Tequilla",
+      "volume": "50ml",
+      "img": "/collection_img/patrol.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Bell's",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/bell's.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Reyka",
+      "Volume percentage": "40%",
+      "type": "Vodka",
+      "volume": "50ml",
+      "img": "/collection_img/reyka.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Lalbel 5",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/label5.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Glenfiddich",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/glenfiddich.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Metsmaasika",
+      "Volume percentage": "18%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/metsmaasika.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Amaretto",
+      "Volume percentage": "25%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/amaretto.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Jack Daniels",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/jack_daniels.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Muraka",
+      "Volume percentage": "18%",
+      "type": "Liquor",
+      "volume": "40ml",
+      "img": "/collection_img/muraka.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Ballantines",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/ballantines.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Old St.Andrews",
+      "Volume percentage": "40%",
+      "type": "Whiskey",
+      "volume": "50ml",
+      "img": "/collection_img/old_st_andrews.jpg"
+    }
+  ]
+}
